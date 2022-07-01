@@ -40,7 +40,7 @@
         <url>https://github.com/killbill/killbill-adyen-plugin/issues</url>
     </issueManagement>
     <properties>
-        <cxf.version>3.0.4</cxf.version>
+        <cxf.version>3.0.13</cxf.version>
         <rest-assured.version>2.5.0</rest-assured.version>
         <jsoup.version>1.8.3</jsoup.version>
         <!-- More recent versions than the core (JDK1.8+) -->

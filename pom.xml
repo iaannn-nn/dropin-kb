@@ -42,7 +42,7 @@
     <properties>
         <cxf.version>3.0.4</cxf.version>
         <rest-assured.version>2.5.0</rest-assured.version>
-        <jsoup.version>1.8.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <!-- More recent versions than the core (JDK1.8+) -->
         <guava.version>21.0</guava.version>
         <jackson.version>2.9.5</jackson.version>
